@@ -1,18 +1,56 @@
 
-### Привет! 👋<br><br>Меня зовут **Эдгар**.  <br>✨ **Мои навыки и технологии**:  <br>- 🐧 Linux (работа с командной строкой, администрирование)  <br>- 🐳 Docker (создание и управление контейнерами)  <br>- 🐍 Python (Django, Flask, автоматизация, скрипты)  <br>- 🌐 JavaScript (базовые знания, работа с фронтендом)  <br>- 🖥️ Django (создание веб-приложений)  <br><br>🚀 **Над чем я работаю**:  <br>- Развиваю свои навыки в DevOps и облачных технологиях.  <br>- Участвую в open-source проектах.  <br><br>🌱 **Сейчас изучаю**:  <br>- Углубляю знания в Docker и Kubernetes.  <br>- Изучаю современные фреймворки JavaScript (React, Node.js).  <br><br>📫 **Как связаться**:  <br>- Email: edgarmarutyan3@gmail.com<br>
+# 👋 Привет! Я Эдгар 
 
+**Энтузиаст DevOps | Full-Stack разработчик | Участник Open-Source проектов**
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edgarmarutyan3@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edgarmarutyan3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Marutyan96)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Marutyan96&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Marutyan96&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marutyan96&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Технологический арсенал
 
----
-[![](https://visitcount.itsvg.in/api?id=Marutyan96&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 Основные компетенции
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌱 Активно изучаю
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+### 🔧 Дополнительные инструменты
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+## 🏗️ Активные проекты
+
+- **Автоматизация DevOps-процессов** - Настройка CI/CD пайплайнов с Docker & Kubernetes
+- **Участие в Open-Source** - Вклад в экосистему Python/Django
+- **Разработка веб-приложений** - Создание full-stack решений на Django/React
+
+## 📚 Путь обучения
+
+- Погружение в оркестрацию Kubernetes и облачные архитектуры
+- Совершенствование навыков фронтенд-разработки с React
+- Освоение управления облачной инфраструктурой AWS
+- Изучение Infrastructure-as-Code с Terraform
+
+## 📈 GitHub Статистика
+
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Marutyan96&show_icons=true&theme=radical)](https://github.com/Marutyan96)
+
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Marutyan96&layout=compact&theme=radical)](https://github.com/Marutyan96)
+
+## 💌 Свяжитесь со мной
+
+- 📧 Почта: [edgarmarutyan3@gmail.com](mailto:edgarmarutyan3@gmail.com)
+- 💼 LinkedIn: [Эдгар Марутян](https://linkedin.com/in/yourprofile)
+- 🐙 GitHub: [Marutyan96](https://github.com/Marutyan96)
+
+[![Посетители](https://komarev.com/ghpvc/?username=Marutyan96&color=blue&label=Просмотры+профиля)](https://github.com/Marutyan96)
