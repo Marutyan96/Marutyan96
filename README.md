@@ -27,19 +27,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-## 🏗️ Активные проекты
+🏗️ Активные проекты
 
-- **Онлайн-курс Python** - [ProPython.Online](https://propython.online/) с встроенным редактором кода
-- **Автоматизация DevOps-процессов** - Настройка CI/CD пайплайнов с Docker & Kubernetes
-- **Участие в Open-Source** - Вклад в экосистему Python/Django
-- **Разработка веб-приложений** - Создание full-stack решений на Django/React
+🌐 Онлайн-редактор кода.Разрабатывайте на языках программирования (Python, JavaScript, C++, Java и др.) с мгновенным выполнением кода, автодополнением и поддержкой совместной работы. Посетите сайт: OnlineCodeEditor.ru/python.Технологии: Django, React, Docker, WebSocket, PostgreSQL  
 
-## 📚 Путь обучения
+📚 Онлайн-курс Python.Изучайте Python с интерактивными уроками и встроенным редактором кода. Начните обучение на ProPython.Online.Технологии: Django, JavaScript, PostgreSQL
 
-- Погружение в оркестрацию Kubernetes и облачные архитектуры
-- Совершенствование навыков фронтенд-разработки с React
-- Освоение управления облачной инфраструктурой AWS
-- Изучение Infrastructure-as-Code с Terraform
 
 ## 📈 GitHub Статистика
 
@@ -56,3 +49,5 @@
 - 🐍 Обучающий портал: [ProPython.Online](https://propython.online/)
 
 [![Посетители](https://komarev.com/ghpvc/?username=Marutyan96&color=blue&label=Просмотры+профиля)](https://github.com/Marutyan96)
+
+
