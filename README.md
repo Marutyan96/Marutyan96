@@ -29,9 +29,9 @@
 
 🏗️ Активные проекты
 
-🌐 Онлайн-редактор кода.Разрабатывайте на языках программирования (Python, JavaScript, C++, Java и др.) с мгновенным выполнением кода, автодополнением и поддержкой совместной работы. Посетите сайт: OnlineCodeEditor.ru/python.Технологии: Django, React, Docker, WebSocket, PostgreSQL  
+🌐 Онлайн-редактор кода.Разрабатывайте на языках программирования (Python, JavaScript, C++, Java и др.) с мгновенным выполнением кода, автодополнением и поддержкой совместной работы. Посетите сайт: [OnlineCodeEditor.ru](http://OnlineCodeEditor.ru/).Технологии: Django, React, Docker, WebSocket, PostgreSQL  
 
-📚 Онлайн-курс Python.Изучайте Python с интерактивными уроками и встроенным редактором кода. Начните обучение на ProPython.Online.Технологии: Django, JavaScript, PostgreSQL
+📚 Онлайн-курс Python.Изучайте Python с интерактивными уроками и встроенным редактором кода. Начните обучение на [ProPython.Online](https://propython.online/).Технологии: Django, JavaScript, PostgreSQL
 
 
 ## 📈 GitHub Статистика
